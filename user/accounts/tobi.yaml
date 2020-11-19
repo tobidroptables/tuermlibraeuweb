@@ -1,0 +1,11 @@
+state: enabled
+email: tza@qrz.ch
+fullname: tobi
+title: superadmin
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$n5MyYEsKac7aCIo8qpRC6O/aD8YUrh78DF6sQVJN5nPGuDTZI6odW
