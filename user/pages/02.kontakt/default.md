@@ -1,6 +1,7 @@
 ---
 title: Kontakt
 body_classes: title-center title-h1h2 text-center
+
 ---
 
 **Verein Türmli Bräu**

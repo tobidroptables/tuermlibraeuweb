@@ -76,7 +76,7 @@
         <section id="start">
         {% block body %}
             <section id="body-wrapper" class="section">
-                <section class="container {{ grid_size }}">
+                <section class="container {{ grid_size }} maincontent">
                     {% block messages %}
                         {% include 'partials/messages.html.twig' ignore missing %}
                     {% endblock %}
@@ -88,9 +88,11 @@
 
     </div>
 
+<!--
     {% block footer %}
         {% include 'partials/footer.html.twig' %}
     {% endblock %}
+-->
 
     {% block mobile %}
     <div class="mobile-container">

@@ -3,9 +3,9 @@ title: Biersortiment
 body_classes: title-center title-h1h2 text-center
 ---
 
-[owl-carousel items=1 margin=10 loop=true autoplay=true autoplayHoverPause=true nav=true]
+[owl-carousel items=1 margin=10 loop=true autoplay=true autoplayHoverPause=true]
 <div class="bierhalter" markdown="1">
-![amber](S5_31_White_Amber.jpg?lightbox=200,200)  
+![amber](S5_31_White_Amber.jpg)  
   **Amber**  
 
   Im Moment unser persönlicher Favorit.  
