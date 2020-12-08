@@ -52,3 +52,24 @@ a:link, a:visited, a:active {
 .mobile-menu .button_container span {
   background-color: black;
 }
+
+.overlay {
+  background-color: white;
+}
+
+.treemenu li.tree-empty>.toggler {
+  visibility: hidden;
+}
+
+.treemenu li{
+  margin: 0;
+  margin-top: 0px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  margin-left: 0px;
+  line-height: 2rem;
+}
+
+.treemenu li a.active, .treemenu li a:focus, .treemenu li a:hover {
+  color: grey!important;
+}
